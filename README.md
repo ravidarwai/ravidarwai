@@ -10,14 +10,13 @@
 - 📄 Know about my experiences [Tech.](Web Development, C, CPP, Data Structures).
 
 - ⚡ Fact : **Bad programmers worry about the code. Good programmers worry about data structures and their relationships.**
-- <br>
+- <ul>
+ <li>linkdin</li>
+</ul>
 <a href = "https://www.linkedin.com/luckydarwai">Linkedin</a>
 
 
 
 
-
-,
-,
 <hr>
 
