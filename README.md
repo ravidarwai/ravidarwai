@@ -11,7 +11,7 @@
 
 - ⚡ Fact : **Bad programmers worry about the code. Good programmers worry about data structures and their relationships.**
 - <ul> 
-<a href = "https://www.linkedin.com/luckydarwai">Linkedin</a>
+<a href = "https://www.linkedin.com/ravidarwai">Linkedin</a>
 </ul>
 
 <hr>
