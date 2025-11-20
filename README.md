@@ -22,8 +22,7 @@
 
 
 
-# 👋 Hi, I’m @HrithikRai
-AI Researcher | Data Scientist | ML & GenAI Engineer
+
 
 ## About Me
 I am a Machine Learning Engineer & AI Researcher with nearly five years of experience building scalable AI solutions, predictive analytics, and cutting-edge Generative AI applications. My expertise spans across deep learning, time series forecasting, computer vision, NLP, and MLOps, with a strong focus on real-world impact and optimization.
