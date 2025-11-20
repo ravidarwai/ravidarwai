@@ -42,9 +42,9 @@ I thrive at the intersection of AI research and production-ready deployment, cre
 -  Data Scientist – Government of Madhya Pradesh (India)
 
 🔗 Connect with Me
-🌐 Portfolio: [click here](https://hrithikrai.github.io/)
-💼 LinkedIn: [click here](https://www.linkedin.com/in/hrithikraisaxena/)
-📧 Email: hrsaxena97@gmail.com
+🌐 Portfolio: [click here](https://ravidarwai.github.io/)
+💼 LinkedIn: [click here](https://www.linkedin.com/in/ravidarwai/)
+📧 Email: ravidarwai10@gmail.com
 
 <!---
 HrithikRai/HrithikRai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
